@@ -44,7 +44,7 @@ The **AI-Powered Financial News Summarizer** is a comprehensive tool designed to
 |`fine_tuning.py`|
 | `interface.html` | 
 
-## 🎨 Web Frontend
+## Web Frontend
 - Built with **HTML, CSS, Bootstrap**
 - Responsive two-column layout
 - Key Features:
@@ -52,12 +52,12 @@ The **AI-Powered Financial News Summarizer** is a comprehensive tool designed to
   - **Custom summarization input**
   - **User-friendly UI with loading states**
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Python** (Flask, BeautifulSoup, Pandas, Requests)
 - **NLP Libraries** (Hugging Face Transformers, PyTorch)
 - **Web Technologies** (HTML5, CSS, Bootstrap, JavaScript)
 
-## 🔧 Setup & Installation
+## Setup & Installation
 ```bash
 # Create virtual environment
 python -m venv financial_summarizer_env
